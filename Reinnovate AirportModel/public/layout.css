@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #eee;
+}
+.logoVAA {
+	width: 100px;
+	height: 100px;
+
+}
+.logoVAA-1 {
+	
+	width: 22%;
+	height: 35%;
+
+}
+.item {
+	vertical-align: middle;
+}
+.margin {
+	margin:  1rem;
+}
+#Logo {
+	
+	width: 80px;
+	height: 80px;
+}
+
+.padding {
+	padding: 2rem;
+}
+
+.padding-header{
+	padding-right: 70px;
+}
+
+
+
+.waitting {
+	background-image: url(images/waittingIcon.jpg);
+}
